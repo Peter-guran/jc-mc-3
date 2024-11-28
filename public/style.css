@@ -1,0 +1,22 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+} */
+
+body {
+    background: linear-gradient(90deg, #444444, #94c494);
+}
+
+/* h1 {
+    text-align: center;
+}
+
+input {
+    margin-left: 690px;
+    margin-top: 25px;
+}
+
+button {
+    margin-left: 690px;
+} */
